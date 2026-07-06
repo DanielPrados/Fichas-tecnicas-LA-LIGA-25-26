@@ -1,7 +1,7 @@
 # Fichas-tecnicas-LA-LIGA-25-26
 Dashboard interactivo en Power BI para el análisis de la temporada 25/26 para todos los equipos de La Liga.
 
-## Datos recopilados y obtención: 
+## Obtención y recopilación de datos: 
 Los datos utilizados en este proyecto están recopilados en el excel LaLiga_2526.xlsx. El proyecto parte del Excel base del curso gratuito de Power BI de Objetivo Analista. Dado que este sólo venía completo hasta la jornada 9, la obtención de los datos restantes se realizó mediante python accediendo a páginas como FBref o a las estadísticas de goles esperados gracias a Understat.
 
 ## Lo más destacado del proyecto
