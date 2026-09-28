@@ -2,9 +2,6 @@
 
 <img width="1310" height="737" alt="Captura de pantalla 2026-09-28 201948" src="https://github.com/user-attachments/assets/4dcc8837-af14-4dee-8c02-36431ea672fb" />
 
-<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/6e2a4336-5add-4d97-8b00-35bc81367fa0" />
-
-
 ## 📌 Descripción
 Dashboard interactivo en **Power BI** para el análisis estadístico, táctico y de rendimiento de todos los clubes de **LaLiga EA Sports (Temporada 25/26)**. Diseñado para ofrecer tanto una vista macro de la competición como fichas técnicas pormenorizadas a nivel de plantilla y jugador.
 
@@ -41,7 +38,7 @@ Dashboard interactivo en **Power BI** para el análisis estadístico, táctico y
 ## 📸 Capturas de Pantalla
 
 ### Ficha Técnica de Club
-![Ficha Club](https://raw.githubusercontent.com/DanielPrados/Fichas-tecnicas-LA-LIGA-25-26/main/captura_equipo.png)
+<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/8e9a576e-0e8b-47e9-9543-611be6957944" />
 
 ### Análisis Comparativo de xG
-![Análisis xG](https://raw.githubusercontent.com/DanielPrados/Fichas-tecnicas-LA-LIGA-25-26/main/captura_xg.png)
+<img width="891" height="213" alt="image" src="https://github.com/user-attachments/assets/8a7ee5fd-44d9-4b17-8c0a-889f895c27c6" />
