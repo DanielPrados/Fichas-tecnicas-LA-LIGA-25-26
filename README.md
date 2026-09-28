@@ -1,6 +1,9 @@
 # ⚽ Fichas Técnicas LaLiga 25/26 — Dashboard Interactivo en Power BI
 
-![Portada LaLiga](https://raw.githubusercontent.com/DanielPrados/Fichas-tecnicas-LA-LIGA-25-26/main/captura_portada.png)
+<img width="1310" height="737" alt="Captura de pantalla 2026-09-28 201948" src="https://github.com/user-attachments/assets/4dcc8837-af14-4dee-8c02-36431ea672fb" />
+
+<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/6e2a4336-5add-4d97-8b00-35bc81367fa0" />
+
 
 ## 📌 Descripción
 Dashboard interactivo en **Power BI** para el análisis estadístico, táctico y de rendimiento de todos los clubes de **LaLiga EA Sports (Temporada 25/26)**. Diseñado para ofrecer tanto una vista macro de la competición como fichas técnicas pormenorizadas a nivel de plantilla y jugador.
